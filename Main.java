@@ -9,15 +9,15 @@ public class Main {
     pet.doTrick();
 
     /* Section 5 */
-    Animal Wanda = new Cat();
-    Wanda.name = "Wanda";
-    Wanda.doTrick();
+    Animal wanda = new Cat();
+    wanda.name = "Wanda";
+    wanda.doTrick();
 
     /* Section 7 */
     makeAnimalSpeak(pet);
 
     /* Section 9 */
-    makeAnimalSpeak(Wanda);
+    makeAnimalSpeak(wanda);
   }
 
   /* Section 6 */
